@@ -4,6 +4,8 @@
 
 **Usage**: instaborder.sh [-h] [-q] [-v] [-f] [-r] [-s <size>] [-bs <bordersize>] [-c <color>] [-l <log_dir>] [-t <tmp_dir>] [-o <output>] <input>
 
+**Requires**: [imagemagick](https://imagemagick.org/script/download.php)
+
 Flags, options and parameters:
 
     -h|--help        : [flag] show usage [default: off]
